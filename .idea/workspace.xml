@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7f82850-0cc7-43b5-a171-82960984cc34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/AllOpenPositionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/CareersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/LeverAppFormPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/QualityAssurancePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/InsiderTest.java" afterDir="false" />
+    <list default="true" id="c7f82850-0cc7-43b5-a171-82960984cc34" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +73,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684697596254</updated>
-      <workItem from="1684697597812" duration="30850000" />
+      <workItem from="1684697597812" duration="31411000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1684838048032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684838048032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
